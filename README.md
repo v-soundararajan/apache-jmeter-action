@@ -2,7 +2,7 @@
 
 # Apache JMeter Github Action
 
-This action runs a JMeter performance test using a given JMX test file. It will output a log file and a results file.
+This action runs a JMeter performance test using a given JMX test file. It will output a log file and results file.
 
 ## Inputs
 
